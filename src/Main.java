@@ -78,7 +78,6 @@ public class Main {
         for(i = 1; i <= 12; i ++) {
             rublеSavings = rublеSavings + rublеSavings / 100;
             rublеSavings = rublеSavings + rublе;
-            //rublеSavings = rublеSavings + rublеSavings / 100;
             System.out.println("Месяц " + i + ", сумма накоплений равна " + rublеSavings + " рублей");
         }
     }
